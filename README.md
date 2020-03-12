@@ -33,3 +33,7 @@ Click Commit changes button.
 
 Local addings in README file
 
+12. Сделать ей checkout (правый клик)
+13. Изменить что-то в файлах
+14. Закоммитить в dev
+
