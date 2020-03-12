@@ -37,3 +37,5 @@ Local addings in README file
 13. Изменить что-то в файлах
 14. Закоммитить в dev
 
+Pull request
+
